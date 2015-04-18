@@ -40,12 +40,13 @@
 
 * JReport Web 报表前端开发
 
-# 开源项目
+# 开源项目及作品
 
 * [Solo](https://github.com/b3log/b3log-solo)：Java 博客前端开发、皮肤开发（~0.5K Stars）
 * [Wide](https://github.com/b3log/wide)：Go 在线 IDE 前端开发（~1K Stars）
 * [Wordman](https://github.com/b3log/b3log-wordman)：Cordova/AngularJS 移动端背单词应用
-* [http://b3log.org](http://b3log.org)/[http://liuyun.io](http://liuyun.io)
+* [http://b3log.org](http://b3log.org)
+* [http://liuyun.io](http://liuyun.io)
 
 # 职业专长
 
