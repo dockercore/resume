@@ -1,2 +1,55 @@
-# resume
-Vanessa 的简历
+# 联系方式
+
+* 手机：18687156220
+* Email：lly219@gmail.com
+* QQ：84588990
+
+# 个人信息
+
+* 李丽媛/女/1986
+* 本科/软件工程/云南大学
+* 工作年限：6 年
+* 博客：[http://vanessa.b3log.org](http://vanessa.b3log.org)
+* Github: [https://github.com/vanessa219](https://github.com/vanessa219)
+* 期望职位：Web 前端高级工程师
+
+# 工作经历
+
+## 广州侎佧网络科技有限公司（2014 年 2 月至今）
+
+* 侎佧产品前端架构
+* Web 移动端开发
+
+## 云南远信科技有限公司（2012 年 5 月 - 2014 年 2 月）
+
+* 前端框架搭建及性能优化
+* Web 端流程配置开发
+* 南网 OA 前端组件开发
+
+## 支付宝（2011 年 5 月 - 2012 年 5 月）
+
+* 帮助中心、运营支撑平台开发
+* 参与 CMS, Mashup, 营销活动开发
+* 静态资源实时统计
+
+## 云南远信科技有限公司（2010 年 3 月 - 2011 年 5 月）
+
+* 南方电网 OA 前端架构及组件库开发
+
+## 云南金峰软件有限公司（2009 年 8 月 - 2010 年 3 月）
+
+* JReport Web 报表前端开发
+
+# 开源项目
+
+* [Solo](https://github.com/b3log/b3log-solo)：Java 博客前端开发、皮肤开发
+* [Wide](https://github.com/b3log/wide)：Go 在线 IDE 前端开发
+* [Wordman](https://github.com/b3log/b3log-wordman)：Cordova/AngularJS 移动端背单词应用
+* [http://b3log.org](http://b3log.org)/[http://liuyun.io](http://liuyun.io)
+
+# 职业专长
+
+* 前端架构、通用插件编写、性能优化
+* 浏览器兼容
+* W3C 标准、桌面、移动设备特性，响应式布局
+* JavaScript/CSS/HTML5/AngularJS/NodeJS/BootStrap/Grunt/LESS/Sass
