@@ -11,7 +11,7 @@
 * 工作年限：6 年
 * 博客：[http://vanessa.b3log.org](http://vanessa.b3log.org)
 * Github: [https://github.com/vanessa219](https://github.com/vanessa219)
-* 期望职位：Web 前端高级工程师
+* 期望职位：Web 前端架构师/高级工程师
 
 # 工作经历
 
