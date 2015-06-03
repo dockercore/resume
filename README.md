@@ -53,4 +53,4 @@
 * 前端架构、通用插件编写、性能优化
 * 浏览器兼容
 * W3C 标准、桌面、移动设备特性，响应式布局
-* JavaScript/CSS/HTML5/AngularJS/NodeJS/BootStrap/Grunt/Less/Sass
+* JavaScript/CSS/HTML5/AngularJS/NodeJS/BootStrap/Grunt/Gulp/Less/Sass
