@@ -28,6 +28,7 @@
 
 ## 支付宝（2011 年 5 月 - 2012 年 5 月）
 
+* 前端整体构架学习
 * 帮助中心、运营支撑平台开发
 * 参与 CMS, Mashup, 营销活动开发
 * 静态资源实时统计
@@ -42,9 +43,9 @@
 
 # 开源项目及作品
 
-* [Solo](https://github.com/b3log/b3log-solo)：GitHub 上 Star 数最多的 Java 博客 前端&皮肤开发（~0.5K Stars）
-* [Wide](https://github.com/b3log/wide)：Golang 黑科技之在线 IDE 前端开发（~1K Stars）
-* [Wordman](https://github.com/b3log/b3log-wordman)：Cordova/AngularJS 移动端背单词应用
+* [Solo](https://github.com/b3log/b3log-solo)：GitHub 上 Star 数最多的 Java 博客 | 前端&皮肤开发（~0.5K Stars）
+* [Wide](https://github.com/b3log/wide)：Golang 黑科技之在线 IDE | 前端开发（~1K Stars）
+* [Wordman](https://github.com/b3log/b3log-wordman)：移动端背单词 APP | Cordova/AngularJS 
 * [http://b3log.org](http://b3log.org)
 * [http://liuyun.io](http://liuyun.io)
 
