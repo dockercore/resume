@@ -44,8 +44,8 @@
 
 # 开源项目及作品
 
-* [Solo](https://github.com/b3log/b3log-solo)：GitHub 上 Star 数最多的 Java 博客 | 前端&皮肤开发（~0.5K Stars）
-* [Wide](https://github.com/b3log/wide)：Golang 黑科技之在线 IDE | 前端开发（~1K Stars）
+* [Solo](https://github.com/b3log/b3log-solo)：GitHub 上 Star 数最多的 Java 博客 | 前端&皮肤开发（~1.1K Stars）
+* [Wide](https://github.com/b3log/wide)：Golang 黑科技之在线 IDE | 前端开发（~1.5K Stars）
 * [Wordman](https://github.com/b3log/b3log-wordman)：移动端背单词 APP | Cordova/AngularJS 
 * [http://b3log.org](http://b3log.org)
 * [http://liuyun.io](http://liuyun.io)
