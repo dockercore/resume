@@ -17,7 +17,8 @@
 
 ## 云南房星科技有限公司[昆明]（2015 年 10 月至今）
 
-* 
+* Team 微信 & 统计 Leader
+* 前端开发
 
 ## 云南远信科技有限公司（2012 年 5 月 - 2015 年 9 月）
 
@@ -44,7 +45,7 @@
 
 # 开源项目及作品
 
-* [symphony](https://github.com/b3log/symphony)
+* [Symphony](https://github.com/b3log/symphony): 平等 • 自由 • 奔放的实时[论坛](https://hacpai.com)，企业版 [SymX](https://github.com/FangStarNet/symphonyx) | 前端开发（~3.5K Users）
 * [Solo](https://github.com/b3log/b3log-solo)：GitHub 上 Star 数最多的 Java 博客 | 前端&皮肤开发（~1.2K Stars）
 * [Wide](https://github.com/b3log/wide)：Golang 黑科技之在线 IDE | 前端开发（~1.5K Stars）
 * [Wordman](https://github.com/b3log/b3log-wordman)：移动端背单词 APP | Cordova/AngularJS 
@@ -56,4 +57,4 @@
 * 前端架构、性能优化、通用插件编写
 * 浏览器兼容
 * W3C 标准、桌面、移动设备特性，响应式布局
-* JavaScript/HTML5/CSS3/AngularJS/NodeJS/BootStrap/Gulp/Grunt/Less/Sass
+* JavaScript/HTML5/CSS3/AngularJS/NodeJS/BootStrap/Gulp/Grunt/Less/Sass/ReactJS[学习ing]
