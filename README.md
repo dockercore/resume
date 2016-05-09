@@ -8,7 +8,7 @@
 
 * 李丽媛/女/1986
 * 本科/软件工程/云南大学
-* 工作年限：6 年
+* 工作年限：7 年
 * 博客：[http://vanessa.b3log.org](http://vanessa.b3log.org)
 * GitHub：[https://github.com/vanessa219](https://github.com/vanessa219)
 * 期望职位：Web 前端架构师/高级工程师
@@ -44,7 +44,8 @@
 
 # 开源项目及作品
 
-* [Solo](https://github.com/b3log/b3log-solo)：GitHub 上 Star 数最多的 Java 博客 | 前端&皮肤开发（~1.1K Stars）
+* [symphony](https://github.com/b3log/symphony)
+* [Solo](https://github.com/b3log/b3log-solo)：GitHub 上 Star 数最多的 Java 博客 | 前端&皮肤开发（~1.2K Stars）
 * [Wide](https://github.com/b3log/wide)：Golang 黑科技之在线 IDE | 前端开发（~1.5K Stars）
 * [Wordman](https://github.com/b3log/b3log-wordman)：移动端背单词 APP | Cordova/AngularJS 
 * [http://b3log.org](http://b3log.org)
