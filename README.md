@@ -11,12 +11,13 @@
 * 工作年限：8 年
 * 博客：[http://vanessa.b3log.org](http://vanessa.b3log.org)
 * GitHub：[https://github.com/vanessa219](https://github.com/vanessa219)
-* 期望职位：Web 前端架构师/PM
+* 期望职位：Web 前端架构师
 
 # 工作经历
 
 ## 云南房星科技有限公司[昆明]（2015 年 10 月至今）
 
+* [2016 半路出家的 PM](https://hacpai.com/article/1485104264974)
 * Team Leader
 * 前端开发
 
@@ -50,13 +51,11 @@
 * [Wide](https://github.com/b3log/wide)：Golang 黑科技之在线 IDE | 前端开发（~1.9K Stars）
 * [Wordman](https://github.com/b3log/b3log-wordman)：移动端背单词 APP | Cordova/AngularJS 
 * [gulp-header-license](https://github.com/Vanessa219/gulp-header-license)：license plugin for gulp. add a header license to file(s) | Gulp Plugin
-* [symphony-weapp](https://github.com/b3log/symphony-weapp)：Symphony 社区平台的微信小程序，提供一些实用工具服务，比如『书单』 https://hacpai.com/tag/book_share | 微信小程序
+* [symphony-weapp](https://github.com/b3log/symphony-weapp)：Symphony 社区平台的微信小程序，提供一些实用工具服务，比如[『书单』]( https://hacpai.com/tag/book_share) | 微信小程序
 * [http://b3log.org](http://b3log.org)
 * [http://liuyun.io](http://liuyun.io)
 
 # 职业专长
 
-* 前端架构、性能优化、通用插件编写
-* 浏览器兼容
+* 前端架构、性能优化、工具集及通用组件编写
 * W3C 标准、桌面、移动设备特性，响应式布局
-* JavaScript/HTML5/CSS3/AngularJS/NodeJS/BootStrap/Gulp/Grunt/Less/Sass/ReactJS[学习ing]
