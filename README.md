@@ -15,7 +15,11 @@
 
 # 工作经历
 
-## 云南房星科技有限公司[昆明]（2015 年 10 月 - 2017 年 1 月）
+## 云南省国有资本运营商城管理有限公司（2017 年 3 月 - ）
+
+* 框架搭建及优化
+
+## 云南房星科技有限公司（2015 年 10 月 - 2017 年 1 月）
 
 * [2016 半路出家的 PM](https://hacpai.com/article/1485104264974)
 * Team Leader
@@ -46,9 +50,10 @@
 
 # 开源项目及作品
 
-* [Symphony](https://github.com/b3log/symphony): Java 实现的现代化社区（论坛/社交网络/博客）[平台](https://hacpai.com) | 前端开发（~7.5K Users）
-* [Solo](https://github.com/b3log/b3log-solo)：GitHub 上 Star 数最多的 Java 博客 | 前端 & 皮肤开发（~1.9K Stars）
-* [Wide](https://github.com/b3log/wide)：Golang 黑科技之在线 IDE | 前端开发（~1.9K Stars）
+* [Symphony](https://github.com/b3log/symphony): Java 实现的现代化社区（论坛/社交网络/博客）[平台](https://hacpai.com) | 前端开发（~11K Users）
+* [Solo](https://github.com/b3log/b3log-solo)：GitHub 上 Star 数最多的 Java 博客 | 前端 & 皮肤开发（~3K Stars）
+* [Wide](https://github.com/b3log/wide)：Golang 黑科技之在线 IDE | 前端开发（~2.1K Stars）
+* [SymApp](https://github.com/b3log/symapp)：Symphony APP | React Native/Mobx 
 * [Wordman](https://github.com/b3log/b3log-wordman)：移动端背单词 APP | Cordova/AngularJS 
 * [gulp-header-license](https://github.com/Vanessa219/gulp-header-license)：license plugin for gulp. add a header license to file(s) | Gulp Plugin
 * [symphony-weapp](https://github.com/b3log/symphony-weapp)：Symphony 社区平台的微信小程序，提供一些实用工具服务，比如[『书单』]( https://hacpai.com/tag/book_share) | 微信小程序
@@ -58,4 +63,4 @@
 # 职业专长
 
 * 前端架构、性能优化、工具集及通用组件编写
-* W3C 标准、桌面、移动设备特性，响应式布局
+* W3C 标准、桌面、移动设备特性
