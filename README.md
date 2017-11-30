@@ -23,7 +23,6 @@
 
 * [2016 半路出家的 PM](https://hacpai.com/article/1485104264974)
 * Team Leader
-* 前端开发
 
 ## 云南远信科技有限公司（2012 年 5 月 - 2015 年 9 月）
 
@@ -50,9 +49,9 @@
 
 # 开源项目及作品
 
-* [Symphony](https://github.com/b3log/symphony): Java 实现的现代化社区（论坛/社交网络/博客）[平台](https://hacpai.com) | 前端开发（~11K Users）
-* [Solo](https://github.com/b3log/b3log-solo)：GitHub 上 Star 数最多的 Java 博客 | 前端 & 皮肤开发（~3K Stars）
-* [Wide](https://github.com/b3log/wide)：Golang 黑科技之在线 IDE | 前端开发（~2.1K Stars）
+* [Symphony](https://github.com/b3log/symphony): Java 实现的现代化社区（论坛/社交网络/博客）[平台](https://hacpai.com) | 前端开发（~12K Users）
+* [Solo](https://github.com/b3log/b3log-solo)：GitHub 上 Star 数最多的 Java 博客 | 前端 & 皮肤开发（~3.5K Stars）
+* [Wide](https://github.com/b3log/wide)：Golang 黑科技之在线 IDE | 前端开发（~2.2K Stars）
 * [SymApp](https://github.com/b3log/symapp)：Symphony APP | React Native/Mobx 
 * [Wordman](https://github.com/b3log/b3log-wordman)：移动端背单词 APP | Cordova/AngularJS 
 * [gulp-header-license](https://github.com/Vanessa219/gulp-header-license)：license plugin for gulp. add a header license to file(s) | Gulp Plugin
